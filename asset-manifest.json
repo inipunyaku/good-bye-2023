@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/good-bye-2023/static/css/main.9be8f12d.css",
+    "main.js": "/good-bye-2023/static/js/main.687d1ce5.js",
+    "static/js/787.c376d5b2.chunk.js": "/good-bye-2023/static/js/787.c376d5b2.chunk.js",
+    "index.html": "/good-bye-2023/index.html",
+    "main.9be8f12d.css.map": "/good-bye-2023/static/css/main.9be8f12d.css.map",
+    "main.687d1ce5.js.map": "/good-bye-2023/static/js/main.687d1ce5.js.map",
+    "787.c376d5b2.chunk.js.map": "/good-bye-2023/static/js/787.c376d5b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be8f12d.css",
+    "static/js/main.687d1ce5.js"
+  ]
+}
